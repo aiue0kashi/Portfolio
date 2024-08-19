@@ -148,7 +148,7 @@ a {
 }
 /* section1 */
 #section1::before {
-  background-image: url(../image/top/section1_bg.jpg);
+  background-image: url("https://github.com/aiue0kashi/Portfolio/blob/main/section1_bg.jpg?raw=true");
   background-position: center right;
   background-repeat: no-repeat;
   background-size: cover;
